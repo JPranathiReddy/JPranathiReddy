@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @JPranathiReddy
+- 👀 I’m interested in software engineering and developing cutting-edge applications.
+- 🌱 I’m currently pursuing MS in Applied Computer Science at Northwest Missouri State University.
+- 💞️ I’m looking to collaborate on projects involving machine learning, natural language processing, or game development.
+- 📫 How to reach me: via [LinkedIn](https://www.linkedin.com/in/jpr08).
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I once developed a real-time chemistry quiz game to help students learn in an interactive way!
